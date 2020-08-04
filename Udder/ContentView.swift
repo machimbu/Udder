@@ -13,6 +13,7 @@ struct ContentView: View {
         VStack {
             Text("Udder").font(.system(size: 50))
             Text("Fresh Malk on Demand").font(.system(.subheadline))
+            Image("SummerMeg")
         }
     }
 }
